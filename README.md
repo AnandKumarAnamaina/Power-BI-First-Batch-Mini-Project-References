@@ -59,7 +59,7 @@ A content analytics reference dashboard demonstrating analysis of movie-related 
 - Detailed Movie Analysis
 - Interactive Genre Filtering
 
-**Reference:** [View Netflix Analytics Dashboard](./02_Netflix_Analytics/)
+**Reference:** [View Netflix Analytics Dashboard](./02 Netflix Analytics/)
 
 ---
 
