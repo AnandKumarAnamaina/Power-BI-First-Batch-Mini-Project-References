@@ -59,7 +59,7 @@ A content analytics reference dashboard demonstrating analysis of movie-related 
 - Detailed Movie Analysis
 - Interactive Genre Filtering
 
-**Reference:** [View Netflix Analytics Dashboard](./02 Netflix Analytics/)
+**Reference:** [View Netflix Analytics Dashboard](https://github.com/AnandKumarAnamaina/Power-BI-First-Batch-Mini-Project-References/tree/30f6f21705bfac5c8a946382b298b02bbb4bd06e/02%20Netflix%20Analytics)
 
 ---
 
@@ -79,7 +79,7 @@ A business analytics reference dashboard focused on smartphone sales, pricing, b
 - Brand-level Data
 - Interactive Brand Filtering
 
-**Reference:** [View Smartphone Analytics Dashboard](./03_Smartphone_Analytics/)
+**Reference:** [View Smartphone Analytics Dashboard](https://github.com/AnandKumarAnamaina/Power-BI-First-Batch-Mini-Project-References/tree/30f6f21705bfac5c8a946382b298b02bbb4bd06e/03%20Smartphone%20Analytics)
 
 ---
 
